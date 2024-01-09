@@ -33,7 +33,7 @@ http.createServer(function(req, res){
 
 ---
 
-Link: https://consumindo-api.diogoflorencio.repl.co
+Link: https://f11ede4b-4075-43c5-a4cb-edef48e2313a-00-su5en0geflq3.riker.replit.dev/
 
 ---
 
