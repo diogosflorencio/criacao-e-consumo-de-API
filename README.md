@@ -68,7 +68,7 @@ O proposito disso, é não perder o progresso feito até aqui, já que o outro m
 
 ## 💻 Pré-requisitos
 
-Não há pré-requisitos para começar. Basta clicar no [link do projeto](https://consumindo-api.diogoflorencio.repl.co/).
+Não há pré-requisitos para começar. Basta clicar no [link do projeto](https://f11ede4b-4075-43c5-a4cb-edef48e2313a-00-su5en0geflq3.riker.replit.dev/).
 
 ## 🚀 Instalando "Criando e Consumindo uma API com Node.js"
 
